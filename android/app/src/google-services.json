@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559748874191",
+    "firebase_url": "https://don-t-wait-89626-default-rtdb.firebaseio.com",
+    "project_id": "don-t-wait-89626",
+    "storage_bucket": "don-t-wait-89626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559748874191:android:1fff4d9022f0feb47d5cba",
+        "android_client_info": {
+          "package_name": "com.example.dont_wait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559748874191-on378b15odb5fbt70fjg8sv0dctf8mts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dont_wait",
+            "certificate_hash": "4459c4a50151660c1602a536de7970f7e9b89f12"
+          }
+        },
+        {
+          "client_id": "559748874191-dklabcr7hvgpgg96sifdlqrqqrbp5oc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOWihvD9eqES-r04KRWHwV36d7emK36cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559748874191-dklabcr7hvgpgg96sifdlqrqqrbp5oc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
